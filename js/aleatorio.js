@@ -1,4 +1,4 @@
-function respostaSelecionada(opcaoSelecionada) {
+export function respostaSelecionada(opcaoSelecionada) {
     const afirmacoes = aleatorio(opcaoSelecionada.afirmacao);
 historiaFinal += afirmacoes + “ “;
 atual++;
