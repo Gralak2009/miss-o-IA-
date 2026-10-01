@@ -38,4 +38,23 @@ export const perguntas = [
                
             ]
         },
+         enunciado: "Até que ponto o medo de falhar e a busca por aprovação externa estão ditando as escolhas que você faz hoje no seu trabalho e nos seus relacionamentos?",
+
+            alternativas: [
+                {
+                    texto: "O medo ainda surge, mas decido com base nos meus valores. Entendi que não posso agradar a todos e priorizo minha paz e autonomia.",
+                    afirmacao: ["Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo.",
+                        ]    "Você valoriza a autoestima e busca enxergar a vida de forma positiva e consciente."
+                },
+                {
+                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+               
+                    afirmacao: ["Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional.",
+                              "Você demonstra estar em busca de maior autoconhecimento e atenção ao seu bem-estar emocional."
+                    ]
+                }
+            
+               
+            ]
+        },
 ]
