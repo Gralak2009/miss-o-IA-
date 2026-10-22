@@ -10,7 +10,7 @@ export const perguntas = [
                     ]
                             }
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
+                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios.",
                     afirmacao: ["Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico.",
                                "Você valoriza o uso consciente dos recursos, conciliando sustentabilidade ambiental e responsabilidade econômica."
                     ] 
