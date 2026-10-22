@@ -38,6 +38,7 @@ export const perguntas = [
                
             ]
         },
+        {
          enunciado: "Até que ponto o medo de falhar e a busca por aprovação externa estão ditando as escolhas que você faz hoje no seu trabalho e nos seus relacionamentos?",
 
             alternativas: [
