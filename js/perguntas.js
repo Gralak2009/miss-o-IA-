@@ -25,14 +25,14 @@ export const perguntas = [
                 {
                     texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
                     afirmacao: ["Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo.",
-                        ]    "Você valoriza a autoestima e busca enxergar a vida de forma positiva e consciente."
+                            "Você valoriza a autoestima e busca enxergar a vida de forma positiva e consciente."]
                 },
                 {
                     texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
                
                     afirmacao: ["Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional.",
-                              "Você demonstra estar em busca de maior autoconhecimento e atenção ao seu bem-estar emocional."
-                    ]
+                              "Você demonstra estar em busca de maior autoconhecimento e atenção ao seu bem-estar emocional."]
+                    
                 }
             
                
